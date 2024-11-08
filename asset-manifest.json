@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shell-microfrontend/static/css/main.f38366ed.css",
+    "main.js": "/shell-microfrontend/static/js/main.202f9bef.js",
+    "static/js/453.20d3868e.chunk.js": "/shell-microfrontend/static/js/453.20d3868e.chunk.js",
+    "index.html": "/shell-microfrontend/index.html",
+    "main.f38366ed.css.map": "/shell-microfrontend/static/css/main.f38366ed.css.map",
+    "main.202f9bef.js.map": "/shell-microfrontend/static/js/main.202f9bef.js.map",
+    "453.20d3868e.chunk.js.map": "/shell-microfrontend/static/js/453.20d3868e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f38366ed.css",
+    "static/js/main.202f9bef.js"
+  ]
+}
